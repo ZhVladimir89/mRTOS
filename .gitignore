@@ -1,3 +1,11 @@
+#mRTOS
+obj/
+bin/
+*.lst
+*.eep
+*.lss
+*.sym
+
 # Prerequisites
 *.d
 
